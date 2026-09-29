@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">playlist-maker-android-PoberezhnyiDmitry</string>
+    <string name="app_name">Playlist maker</string>
+    <string name="search" translatable="false">Поиск</string>
+    <string name="playlists" translatable="false">Плейлисты</string>
+    <string name="favorites" translatable="false">Избранное</string>
+    <string name="settings" translatable="false">Настройки</string>
+    <string name="settings_screen" translatable="false">Настройки</string>
+    <string name="search_screen" translatable="false">Поиск</string>
 </resources>
