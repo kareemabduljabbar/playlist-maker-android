@@ -1,4 +1,4 @@
-package com.example.playlist_maker_android_poberezhnyidmitry.ui.screens
+package com.example.playlist_maker_android_poberezhnyidmitry.ui.setting
 
 import android.content.Context
 import android.content.Intent

@@ -1,4 +1,4 @@
-package com.example.playlist_maker_android_poberezhnyidmitry.ui.screens
+package com.example.playlist_maker_android_poberezhnyidmitry.ui.main
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
