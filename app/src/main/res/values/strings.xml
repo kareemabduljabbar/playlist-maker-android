@@ -8,6 +8,15 @@
 
     <string name="back" translatable="false">Назад</string>
     <string name="clear_search_query" translatable="false">Очистить поисковый запрос</string>
+    <string name="no_tracks_found" translatable="false">Ничего не найдено</string>
+    <string name="check_connection" translatable="false">Проверьте подключение к интернету</string>
+    <string name="arrow_forward" translatable="false">Перейти</string>
+    <string name="track" translatable="false">Трек</string>
+    <string name="duration" translatable="false">Длительность</string>
+    <string name="track_placeholder" translatable="false">Обложка трека</string>
+    <string name="load_track" translatable="false">Загрузить трек</string>
+    <string name="press_to_load" translatable="false">Нажмите кнопку для загрузки</string>
+    <string name="loading" translatable="false">Загрузка…</string>
 
     <string name="dark_theme" translatable="false">Тёмная тема</string>
     <string name="share_app" translatable="false">Поделиться приложением</string>
